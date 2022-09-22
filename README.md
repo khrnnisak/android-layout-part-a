@@ -3,7 +3,7 @@
 ## 2041720020
 
 - Menampilkan pop up "Hello Toast!" ketika tekan button "Toast"
-![Screenshot](images/01.jpg)
+![Screenshot](HelloToast/images/01.jpg)
 
 - Menampilkan TextView yang bertambah ketika menekan button "Count"
-![Screenshot](images/02.jpeg)
+![Screenshot](HelloToast/images/02.jpeg)
